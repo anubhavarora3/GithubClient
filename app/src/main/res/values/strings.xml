@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GithubClient</string>
+    <string name="username">Username :</string>
+    <string name="login">Login</string>
+    <string name="repo">Repositories</string>
+    <string name="no_description">No Description Given</string>
+    <string name="watchers">Watchers : \</string>
+    <string name="repo_name">Repository Name : \</string>
+    <string name="created_at">Created At : \</string>
+    <string name="language">Language : \</string>
+</resources>
